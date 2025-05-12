@@ -20,12 +20,12 @@ The goal is to identify key clinical indicators and build a predictive tool that
 ---
 
 ## 📁 Repository Structure
-Cirrhosis-Mortality-Prediction
-│
+Cirrhosis-Mortality-Prediction<br>
+│<br>
 ├── /Python/
-│   └── Cirrhosis_Modeling.ipynb        # Jupyter notebook with full analysis and modeling pipeline
-│
-├── README.md                           # Project overview and documentation
+│   └── Cirrhosis_Modeling.ipynb        # Jupyter notebook with full analysis and modeling pipeline<br>
+│<br>
+├── README.md                           # Project overview and documentation<br>
 └── ...
 
 ---
