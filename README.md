@@ -71,6 +71,15 @@ The goal is to identify key clinical indicators and build a predictive tool that
   - **Area Under the Precision-Recall Curve (AUPRC)**
 - Interpreted model predictions using **SHAP values** to assess feature contributions.
 
+## 📁 Repository Structure
+/Cirrhosis-Mortality-Prediction/
+│
+├── /Python/
+│   └── Cirrhosis_Modeling.ipynb        # Jupyter notebook containing full analysis and modeling workflow
+│
+├── README.md                           # Project overview
+└── .
+
 ## 📊 Model Performance
 
 ### ✅ Evaluation Results (Test Set):
